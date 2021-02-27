@@ -10,7 +10,31 @@ For a comprehensive Beidou guide, check out [ZΛNTO's guide.](https://docs.googl
 
 ## ![](../../.gitbook/assets/element_electro.png) Beidou
 
+{% tabs %}
+{% tab title="Portrait" %}
 ![](../../.gitbook/assets/beidou.png)
+{% endtab %}
+
+{% tab title="Wish Art" %}
+![](../../.gitbook/assets/character_beidou_wish.png)
+{% endtab %}
+
+{% tab title="Birthday" %}
+![](../../.gitbook/assets/character_beidou_birthday_2021.webp)
+{% endtab %}
+{% endtabs %}
+
+## **Base Stats**
+
+| Lv | Base HP | Base ATK | Base DEF | Electro DMG% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 8597 | 148 | 427 | 12 |
+| 60+ | 9178 | 158 | 456 | 12 |
+| 70 | 10081 | 174 | 501 | 12 |
+| 70+ | 10662 | 184 | 530 | 18 |
+| 80 | 11565 | 200 | 575 | 18 |
+| 80+ | 12146 | 210 | 603 | 24 |
+| 90 | 13050 | 225 | 648 | 24 |
 
 ## **Attacks**
 
@@ -118,7 +142,7 @@ Counterattacking with Tidecaller at the precise moment when the character is hit
 
 | Type | Talent 6% | Cooldown | GU | Particles | Frames | Motion Value |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Full Counter | 170.24% | 7.5s | 2U | 4 | 19 |  |
+| Full Counter | 618% | 7.5s | 2B | 4 |  |  |
 {% endtab %}
 
 {% tab title="Ascension 4" %}
@@ -191,7 +215,7 @@ Tidecaller is effected by [The Bell's](https://library.keqingmains.com/mechanics
 
 ### Rainslasher
 
-The bonus damage against enemies afflicted with a Hydro or Electro aura is 8% more damage than The Bell using Tidecaller.
+The bonus damage against enemies afflicted with a Hydro or Electro aura is 8% more damage than The Bell using Tidecaller. Even when **Thunderbeast's Targe** is snapshot, the Rainslasher bonus damage still applies.
 
 ### The Unforged
 

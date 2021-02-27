@@ -10,6 +10,18 @@ description: >-
 
 ![](../../.gitbook/assets/fischl.png)
 
+## **Base Stats**
+
+| Lv | Base HP | Base ATK | Base DEF | ATK% |
+| :--- | :--- | :--- | :--- | :--- |
+| 60 | 6054 | 161 | 391 | 12 |
+| 60+ | 6463 | 172 | 418 | 12 |
+| 70 | 7099 | 189 | 459 | 12 |
+| 70+ | 7508 | 200 | 485 | 18 |
+| 80 | 8144 | 216 | 526 | 18 |
+| 80+ | 8553 | 227 | 553 | 24 |
+| 90 | 9189 | 244 | 594 | 24 |
+
 ## **Attacks**
 
 {% tabs %}
@@ -131,9 +143,7 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 {% endtab %}
 
 {% tab title="Ascension 4" %}
-### Undone Be Thy Sinful Hex 
-
-\(previously known as _Lightning Smite_\) When your current active character triggers an Electro-related Elemental Reaction while **Oz** is on the field, **Oz** will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
+\#\#\# Undone Be Thy Sinful Hex \\(previously known as \_Lightning Smite\_\\) When your current active character triggers an Electro-related Elemental Reaction while \*\*Oz\*\* is on the field, \*\*Oz\*\* will strike the enemy, dealing Electro DMG equal to 80% of Fischl’s ATK.
 
 <table>
   <thead>
@@ -159,13 +169,11 @@ When Fischl hits **Oz** with a fully charged Aimed Shot, **Oz** will strike a ne
 {% endtab %}
 {% endtabs %}
 
-## Constellations
+\#\# Constellations
 
 {% tabs %}
 {% tab title="C1" %}
-### Gaze of the Deep 
-
-When **Oz** is not on the field, and Fischl performs a Normal Attack against an enemy, **Oz** fires a joint attack, dealing 22% of Fischl ATK as Physical DMG.
+\#\#\# Gaze of the Deep When \*\*Oz\*\* is not on the field, and Fischl performs a Normal Attack against an enemy, \*\*Oz\*\* fires a joint attack, dealing 22% of Fischl ATK as Physical DMG.
 
 <table>
   <thead>
