@@ -20,7 +20,7 @@ description: The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all 
 | 80+ | 9110 | 198 | 534 | 24 |
 | 90 | 9787 | 212 | 573 | 24 |
 
-### **Attacks**
+## **Attacks**
 
 {% tabs %}
 {% tab title="Sparkling Scatter" %}
@@ -86,7 +86,7 @@ Gathering a great number of gems, Ningguang scatters them all at once, sending s
 {% endtab %}
 {% endtabs %}
 
-### **Ascension Passives**
+## **Ascension Passives**
 
 {% tabs %}
 {% tab title="Passive" %}
@@ -108,7 +108,7 @@ A character that passes through the **Jade Screen** will gain a 12% Geo DMG Bonu
 {% endtab %}
 {% endtabs %}
 
-### Constellations
+## Constellations
 
 {% tabs %}
 {% tab title="C1" %}
@@ -148,9 +148,58 @@ When Starshatter is used, Ningguang gains 7 **Star Jades**.
 {% endtab %}
 {% endtabs %}
 
-### **External Links**
+## Full Talent Values
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/bennett/)
+{% tabs %}
+{% tab title="Sparkling Scatter" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Normal Attack DMG | 39.20 | 42 | 44.80 | 47.60 | 50.40 | 53.31 |
+
+### Charged Attack
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack DMG | 243.71 | 261.12 | 278.53 | 295.94 | 313.34 | 331.45 |
+| DMG per Star Jade | 69.44 | 74.40 | 79.36 | 84.32 | 89.28 | 94.44 |
+
+**Stamina Cost**: 50
+
+### Plunge
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 82.60 | 89.87 | 97.14 | 104.41 | 112.34 | 120.27 |
+| Low Plunge DMG | 165.17 | 179.70 | 194.23 | 208.77 | 224.62 | 240.48 |
+| High Plunge DMG | 206.30 | 224.45 | 242.61 | 260.76 | 280.57 | 300.37 |
+{% endtab %}
+
+{% tab title="Jade Screen" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Inherited HP | 66 | 69.90 | 73.80 | 77.70 | 81.60 | 85.50 | 89.40 | 93.30 |
+| Skill DMG | 322.56 | 345.60 | 368.64 | 391.68 | 414.72 | 437.76 | 460.80 | 489.60 |
+
+**Cooldown**: 12s
+{% endtab %}
+
+{% tab title="Starshatter" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| DMG Per Gem | 121.74 | 130.44 | 139.14 | 147.83 | 156.53 | 165.22 | 173.92 | 184.79 |
+| CD | 12 | 12 | 12 | 12 | 12 | 12 | 12 | 12 |
+| Energy Cost | 40 | 40 | 40 | 40 | 40 | 40 | 40 | 40 |
+
+**Energy Cost**: 40
+
+**Cooldown**: 12s
+{% endtab %}
+{% endtabs %}
+
+## **External Links**
+
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Ningguang)
 * [**Ningguang Mains Discord**](https://discord.gg/qrjeEyejsd)
 

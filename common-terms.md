@@ -30,6 +30,8 @@ For a more in-depth look at team compositions + roles, take a look at this [guid
 
 **Permafreeze** = A team centered around permanently freezing enemies to capitalize on Blizzard Strayer’s 4 set bonus.
 
+**PP\(Pure Pyro\)** = A team centered around maximizing pyro uptime on enemies to capitalize on 4 set lavawalker's bonus.
+
 **Quickswap** = A team that has no dedicated carry, spending very little time using normal/charged attacks. Preferring to deal damage through the use of swapping between characters to use elemental skills and bursts.
 
 **Subcarry** = Characters outside of the main carry that deal damage, usually through their skills/burst
@@ -70,13 +72,15 @@ For a more in-depth look at reactions, there is a whole [section](https://librar
 
 * During this ICD, repeated use of that specific elemental source WILL do elemental damage, but WILL NOT apply an aura/trigger
 
+**Reverse \[Melt/Vaporize\]** = A vaporize or melt reaction where the trigger gets a 1.5x modifier.
+
+* Is also referred to as Cryo Melt, Pyro Vaporize, Weak Melt/Vaporize
+
 **Swirled Aura** = An aura that's applied through the use of swirl spreading the aura of one enemy to a different enemy.
 
 **Transformative** = A category for reactions, which: Overload, Electrocharged, Superconduct, Freeze, Shatter, Swirl, and Crystallize fall into.
 
 * Transformative reactions deal damage based on the trigger character level and their EM, for more details go to General Reaction Mechanics
-
-  .
 
 **Trigger** = If a targetable entity has an existing aura, the next elemental source will act as a trigger for a reaction.
 
@@ -98,9 +102,23 @@ As the theorycrafting library is being migrated, many of these terms do not have
 
 **Poise/Interruption Resistance** = A system that determines how difficult it is for a character to be staggered, see our poise page for more information.
 
-**Stagger** = An animation that plays when a character’s poise is cut to 0, which interrupts their current action and displaces them some distance
-
 **Turbo** = When Oz triggers Overload or Superconduct with his Normal Attack, a particle is generated for each enemy hit by the reaction. For more details, [click here!](https://library.keqingmains.com/characters/electro/fischl#turbo)
+
+### Poise
+
+For more information see our page on [poise](mechanics/combat/poise.md).
+
+**Force** = Determines what level stagger will occur
+
+**Poise** = All units have a hidden poise bar which decreases when receiving attacks that deal "poise damage". When the poise bar is depleted to 0, the unit becomes "vulnerable".
+
+**Stagger** = An animation that occurs when a unit is vulnerable \(poise bar is 0\) and they receive an attack that may interrupt their current action and may displace them a certain distance.
+
+* There are 5 different levels of stagger, ranging from 0 to 4, that describe what stagger animation occurs
+
+**Vulnerable** = A status that occurs when a unit's poise bar is 0. The next attack received by a vulnerable unit may stagger them depending on the level of the stagger \(0 = nothing, 1-4 = stagger\)
+
+**Vulnerability** = A modifier that affects the amount of poise damage taken from an attack
 
 ## Combo Terms
 

@@ -62,27 +62,33 @@ Xingqiu performs two strikes with his sword, dealing Hydro DMG. At the same time
   * When a character takes DMG, a **Rain Sword** will shatter, reducing the amount of DMG Taken. 20% of his Hydro DMG will be converted to additional DMG Reduction, maximum additional DMG Reduction gained cannot exceed 24%.
   * Increases active character’s resistance to interruption.
   * The initial maximum number of **Rain Swords** is 3.
+  * **Rain Swords** apply Hydro to surrounding enemies once every 2.2s.
 * Using this ability applies a very brief 1U Hydro aura onto the character.
 
-| Type | Talent 6% | Frames | Motion Value |
-| :--- | :--- | :--- | :--- |
-| Skill DMG | 235.2% + 267.68% |  |  |
-| DMG Reduction | 25% |  |  |
-| Duration | 15s |  |  |
-| Cooldown | 21s |  |  |
-| GU | 1A |  |  |
-| Particles | 5 |  |  |
+| Type | Talent 6% |
+| :--- | :--- |
+| Skill DMG | 235.2% + 267.68% |
+| DMG Reduction | 25% |
+| Duration | 15s |
+| Cooldown | 21s |
+| GU | 2 x 1A |
+| Particles | 4-5 \(1:1\) |
+| Frames | 92 |
 
-* Each hit can be Vaporized using Amber's Q or similar skills.
 * **Rain Sword's** damage reduction is a snapshot.
 * **Rain Sword's** interruption resistance can stack with other skills of similar effects.
+* While casting **Guhua Sword: Fatal Rainscreen**, Xingqiu can start dashing on frame 38, and start casting **Guhua Sword: Raincutter** on frame 71.
 {% endtab %}
 
 {% tab title="Guhua Sword: Raincutter" %}
-Initiate **Rainbow Bladework** and create the maximum number of **Rain Swords.**
+Push back nearby enemies and activate **Rainbow Bladework**. While under the effect of **Rainbow Bladework**:
 
-* Active character’s Normal Attacks will trigger consecutive Sword Rain attacks, dealing Hydro DMG.
-* **Rain Swords** will not shatter throughout the ability’s duration.
+* Active character’s Normal Attacks will trigger a wave of **Sword Rain** attacks, dealing Hydro DMG.
+  * **Sword Rain** waves can be triggered at most once a second. However, they can be buffered, i.e., by attacking slightly before 1 second has passed, the next **Sword Rain** waves will be triggered as soon as possible.
+  * The Normal Attack may be cancelled, but **Sword Rain** wave will still be triggered.
+* The number of **Sword Rain** attacks in each wave cycles in a 2-3 sequence, with the first wave having 2 Sword Rain attacks.
+* **Rain Swords** remain at the maximum number**.**
+* **Rain Swords** will not shatter.
 
 | Type | Talent 6% |
 | :--- | :--- |
@@ -92,9 +98,8 @@ Initiate **Rainbow Bladework** and create the maximum number of **Rain Swords.**
 | Energy Cost | 80 |
 | GU | 1A |
 
-* Raincutter's damage calculation is **Dynamic**.
-  * The active character on field while Raincutter \_\*\*\_is active must be inside a field buff to receive the buffs.
-* Each wave of Sword Rain Attack applies Hydro once, regardless of how many swords are in that wave.
+* **Sword Rain** damage calculation is does not snapshot.
+* Each **Sword Rain** wave applies Hydro once, regardless of how many swords are in that wave.
 {% endtab %}
 {% endtabs %}
 
@@ -160,13 +165,71 @@ Increases the level of Guhua Sword: Fatal Rainscreen by 3.
 {% tab title="C6" %}
 ### **Hence, Call Them My Own Verses**
 
-Activating 2 of Guhua Sword: Raincutter’s Sword Rain attacks greatly increases the DMG of the third. Xingqiu regenerates 3 Energy when Sword Rain attacks hit opponents.
+Changes the number of Sword Rain attacks created in the wave cycles of Guhua Sword: Raincutter's **Sword Rain** waves to a 2-3-5 sequence. Xingqiu regenerates 3 Energy when the third **Sword Rain** wave hits opponents.
+
+Energy regeneration is not affected by Energy Recharge.
+{% endtab %}
+{% endtabs %}
+
+## Full Talent Values
+
+{% tabs %}
+{% tab title="Guhua Style" %}
+### Normal Attacks
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1-Hit DMG | 67.75 | 73.71 | 79.67 | 85.64 | 92.14 | 99.59 |
+| 2-Hit DMG | 69.25 | 75.34 | 81.44 | 87.53 | 94.18 | 101.80 |
+| 3-Hit DMG \(x2\) | 41.50 | 45.15 | 48.80 | 52.46 | 56.44 | 61.01 |
+| 4-Hit DMG | 81.38 | 88.54 | 95.70 | 102.86 | 110.67 | 119.62 |
+| 5-Hit DMG \(x2\) | 52.13 | 56.71 | 61.30 | 65.89 | 70.89 | 76.62 |
+
+### Charged Attack
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Charged Attack 1 DMG | 68.75 | 74.80 | 80.85 | 86.90 | 93.50 | 101.06 |
+| Charged Attack 2 DMG | 81.63 | 88.81 | 95.99 | 103.17 | 111.01 | 119.99 |
+
+**Stamina Cost**: 20
+
+### Plunge
+
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Plunge DMG | 92.93 | 101.10 | 109.28 | 117.46 | 126.38 | 135.30 |
+| Low Plunge DMG | 185.81 | 202.16 | 218.51 | 234.86 | 252.70 | 270.54 |
+| High Plunge DMG | 232.09 | 252.51 | 272.93 | 293.36 | 315.64 | 337.92 |
+{% endtab %}
+
+{% tab title="Guhua Sword: Fatal Rainscreen" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Skill 1 DMG | 235.20 | 252 | 268.80 | 285.60 | 302.40 | 319.20 | 336 | 357 |
+| Skill 2 DMG | 267.68 | 286.80 | 305.92 | 325.04 | 344.16 | 363.28 | 382.40 | 406.30 |
+| Damage Reduction Ratio | 25 | 26 | 27 | 28 | 29 | 29 | 29 | 29 |
+
+**Duration**: 15s
+
+**Cooldown**: 21s
+{% endtab %}
+
+{% tab title="Guhua Sword: Raincutter" %}
+|  | Lv6 | Lv7 | Lv8 | Lv9 | Lv10 | Lv11 | Lv12 | Lv13 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Sword Rain DMG | 75.98 | 81.41 | 86.84 | 92.26 | 97.69 | 103.12 | 108.54 | 115.33 |
+
+**Energy Cost**: 80
+
+**Duration**: 15s
+
+**Cooldown**: 20s
 {% endtab %}
 {% endtabs %}
 
 ## **External Links**
 
-* [**Honey Hunter**](https://genshin.honeyhunterworld.com/db/char/xingqiu/)
 * [**Genshin Impact Fandom**](https://genshin-impact.fandom.com/wiki/Xingqiu)
 * [**Xingqiu Mains Discord**](https://discord.gg/5MKsJyhkQv)
 
