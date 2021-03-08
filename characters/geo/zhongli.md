@@ -47,6 +47,7 @@ Zhongli consumes 20 stamina to lunge forward causing spears to fall along his pa
 
 | String | Talent 6% | Frames | Motion Value |
 | :--- | :--- | :--- | :--- |
+| C | 161.38% |  |  |
 | N1C | 206.1% |  |  |
 
 **Plunge**
@@ -93,9 +94,11 @@ Zhongli channels for 2 seconds causing the following effects:
 | Press Cooldown | 4s |
 | Hold Cooldown | 12s |
 | Particles | 0~1 \(1:1\) |
-| GU |  |
-| Frames |  |
-| Motion Value |  |
+| Pillar summon GU | 2U |
+| Pillar pulse GU | 1U |
+| Shield summon GU | 1U |
+| Press Frames | 39 |
+| Hold Frames | 97 |
 {% endtab %}
 
 {% tab title="Planet Befall" %}
@@ -111,8 +114,8 @@ Zhongli summons a falling meteor down to earth, dealing massive Geo DMG to enemi
 | Petrification Duration | 3.6s \(scaling\) |
 | Cooldown | 12s |
 | Energy Cost | 40 |
-| GU |  |
-| Frames |  |
+| GU | 4U |
+| Frames | 140 |
 {% endtab %}
 {% endtabs %}
 
