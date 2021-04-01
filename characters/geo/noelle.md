@@ -270,3 +270,4 @@ Performing dragonstrike on Noelle via N1 + plunge nets on average, about a 27% i
 
 {% page-ref page="../../evidence/characters/geo/noelle.md" %}
 
+.
