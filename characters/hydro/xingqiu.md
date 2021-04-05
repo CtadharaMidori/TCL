@@ -100,7 +100,8 @@ Push back nearby enemies and activate **Rainbow Bladework**. While under the eff
 | GU | 1A |
 
 * **Sword Rain** damage calculation does not snapshot.
-* Each **Sword Rain** wave follows common ICD theory, so waves with 2 and 3 swords will apply Hydro once and waves with 5 swords\(C6\) will apply Hydro twice
+* Each **Sword Rain** wave follows common ICD theory, so waves with 2 and 3 swords will apply Hydro once and waves with 5 swords\(C6\) will apply Hydro twice.
+* There a small window after the burst ends where the effects can still activate.
 {% endtab %}
 {% endtabs %}
 
