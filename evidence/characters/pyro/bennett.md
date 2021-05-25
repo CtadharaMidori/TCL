@@ -37,6 +37,15 @@ Active Shield: [https://streamable.com/st9wwi](https://streamable.com/st9wwi) \(
 
 Prevent knockback and maximise DPS
 
+## Bennett hold e counts as self damage
+
+**By:** Sir_pick_the_prick\#2209  
+**Added:** 5/25/2021
+
+**Finding:** pite Bennett's level 2 e being damageless, when under the effects of xingqiu's sword shields, holding e for the full duration bursts a sword.
+Evidence: see above
+Significance: dont hold e for its full duration under xq shields, or you burst a shield. 
+
 ## Gauge Units of C6 Infusion
 
 **By:** Sayline\#5959
